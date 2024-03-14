@@ -1,0 +1,12 @@
+{
+  "routes": [
+    "/identification",
+    "/identification/login",
+    "/identification/register",
+    "/recipe",
+    "/recipe/addRecipe",
+    "/recipe/allRecipe",
+    "/recipe/rd",
+    "/recipe/smallRecipe"
+  ]
+}
